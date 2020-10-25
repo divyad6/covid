@@ -2,6 +2,9 @@
 
 CoBiz application displays countrywide Covid related deaths and recoveries.
 
+# Data Flow
+![alt text](https://github.com/divyad6/covid/blob/master/Untitled%20Document-2.jpg)
+
 ## Installation
 
 This Android application can be installed from Google Play store [CoBiz](https://play.google.com/store/apps/details?id=com.divya.cobiz).
