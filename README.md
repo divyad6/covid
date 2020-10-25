@@ -10,7 +10,7 @@ This Android application can be installed from Google Play store [CoBiz](https:/
 
 ```
 This branch can be checked out and viewed using Android Studio.
- The package com.cobiz.codata consists of the POJO classes which is used to fetch the data from an API
+ The package com.cobiz.codata consists of the POJO classes which is used to store the data.
  The package com.cobiz.codataapi consists of the API related classes which is used to fetch the JSON data and parse it into the POJO classes.
 ```
 
